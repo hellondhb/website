@@ -1,12 +1,12 @@
 # [**Terms of Service**](https://newdayhomebuyer.com/termsofservice/)  
 
-**Last updated:** August 30, 2025
+**Last updated:** October 3, 2025
 
 These Terms of Service (“**Terms**”) govern your use of websites, forms, and services provided by **New Day Homebuyer (“NDHB,” “we,” “us,” “our”)**. By using our sites or submitting information, you agree to these Terms and to our [**Privacy Policy**](https://newdayhomebuyer.com/privacy/?utm_source=chatgpt.com).
 
 ## **1\) Who We Are / No Professional Advice**
 
-NDHB is a marketing and communications platform focused on real estate problem-solving, referrals, and investment opportunities. We are **not** a licensed brokerage and do **not** provide legal, tax, or financial advice.
+NDHB is a real estate investment company that purchases residential properties directly from homeowners for cash. We are **not** a licensed brokerage and do **not** provide legal, tax, or financial advice.
 
 ## **2\) Eligibility & Your Responsibilities**
 
