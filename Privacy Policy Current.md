@@ -1,10 +1,10 @@
 # **Privacy Policy**
 
-## **Last updated:** August 30, 2025
+## **Last updated:** October 3, 2025
 
 ## New Day Homebuyer (“**NDHB**,” “we,” “us,” or “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, share, and safeguard personal information when you interact with our websites, forms, advertisements, phone systems, email, or messaging programs. By using our services or submitting your information, you agree to this Policy.
 
-## NDHB is a **marketing and communications platform** serving homeowners, investors, and referral partners. We are not a licensed brokerage and do not provide legal, tax, or financial advice.
+## NDHB is a real estate investment company that purchases residential properties directly from homeowners for cash**.**We are not a licensed brokerage and do not provide legal, tax, or financial advice.
 
 ## **1\) Information We Collect**
 
@@ -36,8 +36,6 @@
 
 * ## Service providers that help us verify or enrich contact data 
 
-* ## Referral partners you ask us to connect you with 
-
 ## **2\) How We Use Information**
 
 ## We use information to:
@@ -51,8 +49,6 @@
 * ## Operate, secure, and improve our websites, ads, and outreach 
 
 * ## Comply with laws, defend legal rights, and prevent fraud 
-
-## **Note:** NDHB is a marketing and communications platform. We do **not** directly buy, sell, or transact in real estate.
 
 ## **3\) TCPA Notice & Consent to Communications**
 
@@ -78,13 +74,11 @@
 
 ## **5\) Sharing Information**
 
-## We **do not sell** your personal information. We may share limited data with:
+## We **do not sell, share or rent** your personal information to third parties for their marketing purposes.  We may share limited data with:
 
 * ## **Service providers** operating our websites, CRM, analytics, messaging, and support systems 
 
-* ## **Messaging/marketing providers** acting on our behalf 
-
-* ## **Local professionals** needed to fulfill your request (they must obtain **their own** consent to message you) 
+* ## **Local professionals** we may contract, working on NDHB’s behalf, needed to fulfill your request (they must obtain **their own** consent to message you) 
 
 * ## **Authorities** where required by law or to protect rights and safety 
 
@@ -113,4 +107,3 @@
 ## **11\) Contact**
 
 ## **New Day Homebuyer (NDHB)**  Website: [https://newdayhomebuyer.com](https://newdayhomebuyer.com?utm_source=chatgpt.com)  Phone: **307-263-4918**  Email: **privacy@newdayhomebuyer.com**  Opt-out email: **optout@newdayhomebuyer.com**  Contact Form: [https://newdayhomebuyer.com/contact](https://newdayhomebuyer.com/contact?utm_source=chatgpt.com)
-
