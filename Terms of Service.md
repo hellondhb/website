@@ -1,4 +1,4 @@
-# [**Terms of Service**](https://newdayhomebuyer.com/termsofservice/)  
+# [**Terms of Service**](https://newdayhomebuyer.com/terms-of-service/)  
 
 **Last updated:** October 3, 2025
 
@@ -24,7 +24,7 @@ If you submit information (e.g., forms, emails, SMS, voicemails), you grant NDHB
 
 All site content, trademarks, logos, and materials are owned by NDHB or its licensors and protected by law. We grant you a limited, revocable license to access the site for personal, lawful use.
 
-## **6\) Third-Party Links & Referrals**
+## **6\) Third-Party Links** 
 
 Our sites may link to third-party websites or connect you with local professionals. NDHB is not responsible for third-party content or policies. Any third party must obtain **their own** consent before sending you marketing messages.
 
@@ -42,7 +42,7 @@ You agree to defend, indemnify, and hold harmless NDHB from claims, damages, los
 
 ## **10\) SMS Program Terms (A2P 10DLC)**
 
-* **Opt-in:** You may consent to receive SMS/calls by checking the consent box on our forms or by replying **YES** to a double-opt-in text.
+* **Opt-in:** You may consent to receive SMS/calls by checking the consent box on our forms.
 
 * **Content:** Marketing and informational messages about real estate solutions, scheduling, and updates. **Message frequency varies.**
 
@@ -57,7 +57,7 @@ You agree to defend, indemnify, and hold harmless NDHB from claims, damages, los
 * **Availability:** Delivery depends on your carrier; NDHB and carriers are not responsible for delayed or undelivered messages.
 
 * **Partners:** If we introduce you to a local professional, they must obtain **their own** consent before messaging you.  
-   See our [**Privacy Policy**](https://newdayhomebuyer.com/privacy/?utm_source=chatgpt.com) for data use and consent-logging details.
+   Please see our [**Privacy Policy**](https://newdayhomebuyer.com/privacy/?utm_source=chatgpt.com) for details on data use and consent logging.
 
 ## **11\) Changes to Services or Terms**
 
